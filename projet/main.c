@@ -13,6 +13,8 @@
 #include <string.h>
 
 
+
+
 #define MAX_TASKS 10
 
 // Union pour stocker des informations spécifiques à la tâche
@@ -129,6 +131,7 @@ int main(void) {
 
     return 0;
 }
+
 
 
 
